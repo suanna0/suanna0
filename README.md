@@ -1,4 +1,4 @@
-## Hello!
+## About Suanna Zhong
 
 I am a new media artist and computer scientist. Currently, I am studying Computer Science and Fine Art with a minor in Animation and Special Effects at Carnegie Mellon University. 
 
