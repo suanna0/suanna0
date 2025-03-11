@@ -1,6 +1,6 @@
 ## About Suanna Zhong
 
-I am a new media artist and computer scientist. Currently, I am studying Computer Science and Fine Art with a minor in Animation and Special Effects at Carnegie Mellon University. 
+I am a new media artist and computer scientist. Currently, I am studying Computer Science and Fine Art with a minor in Animation and Special Effects at Carnegie Mellon University. My work has been commissioned by Meta/Facebook, Pinterest, Common Sense Media, and Dehancer.
 
 In my independent artistic practice, I’m driven by a need to explore complex aspects of identity, using code as a medium. Outside of my art, I love to collaborate with creatives and use my technical skills in CS to not only give insight to the limitations of technology, but also bring those projects to life.  
   
