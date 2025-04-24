@@ -1,5 +1,0 @@
-Suanna Zhong is a new media artist and computer scientist. Currently, she is pursuing a Bachelor's of Computer Science and Fine Art with a minor in Animation at Carnegie Mellon University. 
-
-As a former Computer Science TA, much of Zhong's work is motivated by her desire for reform in Computer Science education—challenging its emphasis on prestige and reimagining the undergraduate pipeline that funnels students into the corporate world. By misappropriating well-established imagery from academic literature, her artwork not only serves as a catalyst for deconstructing the axioms that reinforce the power dynamics at play within academic institutions, but also represents the arduous yet meticulous labor of computer scientists within the context of contemporary art. 
-
-Additionally, Zhong’s work often reflects on what it was like to grow up during the golden age of Silicon Valley’s Web 2.0 optimism—while also navigating the complexities of queerness within that environment.
