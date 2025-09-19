@@ -1,3 +1,3 @@
 [suannazhong.com](https://suannazhong.com/)
 
-Currently, I work at º1824, Universal Music Group’s in-house creative solutions team. My past clients include Meta, Pinterest, Kid Cudi, and Capitol Records. I'm in my final year at Carnegie Mellon University, pursuing a Bachelor of Computer Science and Arts (BCSA) in Computer Science and Art, and seeking full-time opportunities starting Fall 2026.
+I am a fourth-year student in the Bachelor of Computer Science and Arts (BCSA) program at Carnegie Mellon University, studying Computer Science and Art. Being in this unique position between disciplines, I enjoy being in conversation with artists, researchers, engineers, and anyone who feels like they fall somewhere in between.
